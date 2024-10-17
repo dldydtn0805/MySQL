@@ -9,6 +9,7 @@
 ```
 문제번호.sql
 ```
+`https://school.programmers.co.kr/learn/courses/30/lessons/${문제번호}` 
 
 예: `12345.sql`
 
